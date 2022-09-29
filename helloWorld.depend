@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1664408481 source:c:\users\erik\documents\codeblocks\helloworld\main.cpp
+	<iostream>
+	<locale>
+	<windows.h>
+	"utils.h"
+	"calculadora.h"
+
+1664408382 c:\users\erik\documents\codeblocks\helloworld\utils.h
+	<iostream>
+	<windows.h>
+
+1664059839 c:\users\erik\documents\codeblocks\helloworld\calculadora.h
+	<iostream>
+	<windows.h>
+
