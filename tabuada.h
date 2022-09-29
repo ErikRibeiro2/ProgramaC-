@@ -106,5 +106,6 @@ int calculadora()
     }
     cout << " " << endl;
     fimPrograma:
+    system("title MySoftware");
     return 0;
 }
